@@ -1,12 +1,12 @@
 #Deface-less
 
-We like to use slim over here at Kavalier and for some reason the deface gem doesn't seem to play nice with the latest versions of Spree and spree_static_content. 
+We like to use slim over here at Kavalier and for some reason the deface gem doesn't seem to play nice with the latest versions of spree and spree_static_content. 
 
 This fork simply erases the Deface overrides from the original spree_static_content so that us slim advocates can stay efficient.
 
 **Note**
 
-This is a temporary hack/solution. It is our hope that spree_static_content (and hopefully spree) will do away with Deface all together. In the event this is not the case, perhaps this fork can be the beginning of a better solution.
+This is a temporary hack/solution. It is our hope that spree_static_content (and hopefully spree) will eventually do away with Deface all together. In the event this is not the case, perhaps this fork can be the beginning of a better solution.
 
 -----
 
