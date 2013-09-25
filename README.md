@@ -2,7 +2,7 @@
 
 We like to use slim over here at Kavalier and for some reason the deface gem doesn't seem to play nice with the latest versions of spree and spree_static_content. 
 
-This fork simply erases the Deface overrides from the original spree_static_content so that us slim advocates can stay efficient.
+This fork simply erases the Deface overrides from the original spree_static_content gem so that us slim advocates can stay efficient.
 
 **Note**
 
